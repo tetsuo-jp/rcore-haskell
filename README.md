@@ -1,2 +1,2 @@
-# rcore-haskell
-An R-CORE interpreter implemented in Haskell
+# R-CORE
+An R-CORE interpreter implemented in Haskell.
